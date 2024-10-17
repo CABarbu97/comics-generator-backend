@@ -1,0 +1,6 @@
+flask
+flask-cors
+replicate
+openai==0.28
+requests
+Pillow
